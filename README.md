@@ -18,3 +18,5 @@ First we will check top countrys by gdp (Gross domestic product) in 2016(2016 be
 We also need to know the population<br>
 ![QPOP](https://user-images.githubusercontent.com/92873282/139449883-473bac30-d0b8-4aa8-b14d-257aade35800.png)
 ![QRPOP](https://user-images.githubusercontent.com/92873282/139450292-d2423877-14b8-4539-89cd-d60317bf98b4.png)
+
+After theese inicial queries we can already see that the top countrys in pop and GDP are the same. This have an explanation labour is a factor of production and with an increase in the labour force, due to population growth, the total output may increase causing the GDP to increase
