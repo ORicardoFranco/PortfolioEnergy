@@ -57,4 +57,14 @@ Lets now compare Oil, Gas, and Coal consumers
 ![QROilCoalGasConsumptiom](https://user-images.githubusercontent.com/92873282/139475127-c6bb72f8-54b1-4b73-99c7-17a6acec5d98.png)
 
 
+We will now compare renewable electricity per capita using joins.
+
+![QSolarWindHydroConsumption](https://user-images.githubusercontent.com/92873282/139475654-f702adfc-57ce-4e41-a294-5887c989e821.png)
+![QRSolarWindHydroConsumption](https://user-images.githubusercontent.com/92873282/139475783-52cdec51-5f37-477c-a4d8-e1d44c99aac0.png)
+
+And our final query we will be using CTE and Joins to compare Fossil Vs Renewable. Please take note that we will divide renewable electricity with fossil electricity so we can have a comparable number
+
+![QCTE](https://user-images.githubusercontent.com/92873282/139476190-4668b174-fd8f-496b-97b0-a88b3143f4ee.png)
+![QRCTE](https://user-images.githubusercontent.com/92873282/139476306-7dfe73a9-b121-471e-9cb6-f40b29bbc733.png)
+
 
