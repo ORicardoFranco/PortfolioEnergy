@@ -67,4 +67,7 @@ And our final query we will be using CTE and Joins to compare Fossil Vs Renewabl
 ![QCTE](https://user-images.githubusercontent.com/92873282/139476190-4668b174-fd8f-496b-97b0-a88b3143f4ee.png)
 ![QRCTE](https://user-images.githubusercontent.com/92873282/139476306-7dfe73a9-b121-471e-9cb6-f40b29bbc733.png)
 
+We have so much more to analyse but it will be information heavy and i think i already showed the essential. So the SQL part of the project end here. 
 
+
+## Power BI
