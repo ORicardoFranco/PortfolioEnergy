@@ -71,3 +71,4 @@ We have so much more to analyse but it will be information heavy and i think i a
 
 
 ## Power BI
+![PowerBI](https://user-images.githubusercontent.com/92873282/139923949-95ded181-226c-4fa1-90da-65ed4cd51226.jpg)
